@@ -1,2 +1,2 @@
 print('Hello World')
-print('Kandi varshini kandi')
+print('Kandi varshini kandi mental')
